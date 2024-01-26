@@ -1,0 +1,13 @@
+RECORDATORIOS
+
+habilitar el hash de contraseñas en secretarias y profesores. Pero hasta que la interfaz del admin quede correcta
+
+
+
+
+
+
+PREGUNTAR AL CORDI HASTA QUE SEMESTRE ES LO MAXIMO QUE SE PERMITE
+
+Habilitar GD para insertar imagenes en el pdf
+
